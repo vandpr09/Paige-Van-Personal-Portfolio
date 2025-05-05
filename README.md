@@ -1,0 +1,1 @@
+This is my personal portfolio for a class im taking in college that goes towards my Information Technology and Data Science degree. This project basically helps me evaluate what I know about coding. It helped me demonstrate my coding abilities, creativity, and progress to my instructor. This hands-on experience was super useful. 
